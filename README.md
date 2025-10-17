@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Yasser Elgammal  
 
-<!--
-**YasserElgammal/YasserElgammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer who enjoys turning complex ideas into simple, practical systems.  
+I focus on building scalable, high-quality backends using **Laravel**, **PHP**, and modern tools such as **Livewire** and **Tailwind CSS**.  
 
-Here are some ideas to get you started:
+What truly drives me is solving real-world problems, things that make life easier for users and businesses.  
+Throughout my journey, I’ve worked on systems across **Fintech**, **E-commerce**, **ERP**, **E-learning**, and **Booking platforms**,  
+each one teaching me something new about architecture, logic, and how people actually use technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always motivated to learn, grow, and take on new challenges, delivering solutions that not only work but truly make a difference.
+
+**Yasser Elgammal**  
+> “Eager to Learn, Hungry to Build 💪”  
