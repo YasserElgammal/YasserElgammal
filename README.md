@@ -19,6 +19,7 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 
 ### Laravel Packages
 
+* [**Laravel Tamara**](https://github.com/YasserElgammal/laravel-tamara) : Tamara Payment API integration for Laravel.
 * [**Laravel WASL eRental**](https://github.com/YasserElgammal/laravel-wasl-erental) : WASL eRental API integration for Laravel.
 * [**Logisti Tawseel**](https://github.com/YasserElgammal/logisti-tawseel) : Tawseel delivery API integration for Laravel.
 * [**Lara SMS**](https://github.com/YasserElgammal/lara-sms) : SMS integration for Laravel applications.
