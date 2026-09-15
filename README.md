@@ -28,5 +28,8 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 * [**Laravel Egypt National ID Parser**](https://github.com/YasserElgammal/laravel-egypt-national-id-parser) : Parse and validate Egyptian National ID numbers.
 * [**PureText**](https://github.com/YasserElgammal/pure-text) : Text filtering and replacement with Arabic and Unicode support.
 
+### Go Libraries
+* [**Rate Limiter**](https://github.com/YasserElgammal/rate-limiter) : A thread-safe token-bucket rate limiter for Go applications, supporting per-key limits and configurable bursts.
+
 **Yasser Elgammal**
 > “Eager to Learn, Hungry to Build 💪”
