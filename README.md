@@ -12,7 +12,6 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 ## 📦 Open Source
 
 ### PHP Frameworks
-
 * [**Green Framework**](https://github.com/YasserElgammal/green) : A lightweight PHP framework focused on clean architecture and simplicity.
 * [**Green Core**](https://github.com/YasserElgammal/green-core) : Core components of the Green Framework.
 * [**Green Locale**](https://github.com/YasserElgammal/green-locale) : Localization support for Green Framework.
@@ -28,7 +27,12 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 * [**Laravel Egypt National ID Parser**](https://github.com/YasserElgammal/laravel-egypt-national-id-parser) : Parse and validate Egyptian National ID numbers.
 * [**PureText**](https://github.com/YasserElgammal/pure-text) : Text filtering and replacement with Arabic and Unicode support.
 
+### Go Frameworks
+
+* [**Blue Go**](https://github.com/YasserElgammal/blue-go) : Blue is a lightweight Go web framework for building REST APIs.
+
 ### Go Libraries
+
 * [**Rate Limiter**](https://github.com/YasserElgammal/rate-limiter) : A thread-safe token-bucket rate limiter for Go applications, supporting per-key limits and configurable bursts.
 
 **Yasser Elgammal**
