@@ -27,6 +27,10 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 * [**Laravel Egypt National ID Parser**](https://github.com/YasserElgammal/laravel-egypt-national-id-parser) : Parse and validate Egyptian National ID numbers.
 * [**PureText**](https://github.com/YasserElgammal/pure-text) : Text filtering and replacement with Arabic and Unicode support.
 
+### PHP Package
+
+* [**Tabby PHP SDK**](https://github.com/YasserElgammal/tabby-php) : Framework-agnostic PHP SDK for integrating with the Tabby Payment API.
+
 ### Go Frameworks
 
 * [**Blue Go**](https://github.com/YasserElgammal/blue-go) : Blue is a lightweight Go web framework for building REST APIs.
