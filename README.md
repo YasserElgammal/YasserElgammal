@@ -24,7 +24,6 @@ I'm always motivated to learn, grow, and take on new challenges, delivering solu
 * [**Lara SMS**](https://github.com/YasserElgammal/lara-sms) : SMS integration for Laravel applications.
 * [**Laravel Easy Wallet**](https://github.com/YasserElgammal/laravel-easy-wallet) : Wallet management for Laravel applications.
 * [**Laravel Gemini**](https://github.com/YasserElgammal/laravel-gemini) : Google Gemini integration for Laravel.
-* [**Laravel Egypt National ID Parser**](https://github.com/YasserElgammal/laravel-egypt-national-id-parser) : Parse and validate Egyptian National ID numbers.
 * [**PureText**](https://github.com/YasserElgammal/pure-text) : Text filtering and replacement with Arabic and Unicode support.
 
 ### PHP Package
